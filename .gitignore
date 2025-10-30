@@ -3,7 +3,8 @@
 
 # OS files
 .DS_Store
-
+.claude
 # backup files
 backups/*
+claude.md
 !backups/.gitkeep

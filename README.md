@@ -135,9 +135,9 @@ The worker container includes support for:
 - **C/C++**
 - **Go**
 - **Rust**
+- **Java**: OpenJDK 21 LTS (requires `--processes=64` in isolate configuration)
 
 **To be tested (and updated for some languages):**
-- **Java**: OpenJDK 21 LTS
 - **Ruby**: Ruby 3.4.4 via RVM
 - **Pascal**: Free Pascal Compiler (FPC)
 - **PHP**: PHP CLI
